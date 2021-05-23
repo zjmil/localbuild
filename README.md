@@ -9,7 +9,7 @@ would need to look up any of the various configuration options I had set.
 
 ### Installing
 1. Clone this repo.
-2. Run localbuild within its own repo (require python3):
+2. Run localbuild within its own repo (requires Python3):
 ```
 ./localbuild
 ```
